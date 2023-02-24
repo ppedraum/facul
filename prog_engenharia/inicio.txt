@@ -1,0 +1,30 @@
+PYTHON
+------------------------------------
+
+Linguagens interpretadas: Linha a Linha
+
+Paradigmas da programação:
+
+Estruturado: Sequencia, decisão e iteração.
+
+Iteração
+------------------------/
+for i in range(10):
+    print(i)
+else
+    print("Terminou")
+
+Condição / Decisão
+------------------------/
+if(i = 0)
+    print("é 0")
+else
+    print("nao eh 0")
+
+
+
+
+
+
+
+
